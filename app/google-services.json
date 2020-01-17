@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "219483636246",
+    "firebase_url": "https://tampiicomic.firebaseio.com",
+    "project_id": "tampiicomic",
+    "storage_bucket": "tampiicomic.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:219483636246:android:7336510e2dce85c3ff6b37",
+        "android_client_info": {
+          "package_name": "com.example.tampiicomic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "219483636246-6dasqv24dh89stk57alrs7ach2ci1876.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tampiicomic",
+            "certificate_hash": "4e149716359b27f56b76058ca629fdfb7e70989b"
+          }
+        },
+        {
+          "client_id": "219483636246-bq1mu15g4r92mmesgd0347ojicesgceq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMiZyCTcaulkXiAtkjlYDbQwhyNgNwgXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "219483636246-bq1mu15g4r92mmesgd0347ojicesgceq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
